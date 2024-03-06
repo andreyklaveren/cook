@@ -1,5 +1,6 @@
 import { Pressable, PressableProps, Image, Text } from "react-native";
-import { styles } from "./style";
+import { styles } from "./styles";
+
 
 export type IngredientsProps = {
     name: string,
